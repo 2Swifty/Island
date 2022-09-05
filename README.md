@@ -37,6 +37,8 @@ This project modulates life on the island
 
 # Выживает сильнейший!
 
+> for JAVARUSH https://javarush.ru/me
+
 
 
 

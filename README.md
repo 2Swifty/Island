@@ -7,6 +7,7 @@ This project modulates life on the island
 3. Each animal has diffrent characterists (parameters) (for example : weight , speed , etc...)
 
 4. Each animal has the ability to:
+
 4.1 Reproduce
 
 4.2 Move

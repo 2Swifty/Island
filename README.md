@@ -8,8 +8,11 @@ This project modulates life on the island
 
 4. Each animal has the ability to:
 4.1 Reproduce
+
 4.2 Move
+
 4.3 Eat
+
 4.4 Die
 
 5. Project simulates the real enviroment , and built on princible of survival (using kill probability)
@@ -26,10 +29,14 @@ This project modulates life on the island
 
 3. Каждое животное имеет свои характеристики (параметры) (например : вес , скорость , итд...)
 
-4. Каждое животное умеет
+4. Каждое животное умеет:
+
 4.1 Размножаться
+
 4.2 Двигаться
+
 4.3 Кушать
+
 4.4 Умирать
 
 5. Проект симулирет реальную среду обитания, и построен на принципе выживания (используя вероятность убийства)
